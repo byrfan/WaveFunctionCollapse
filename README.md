@@ -1,6 +1,6 @@
 # An example of the Wave Function Collapse algorithm: 
 ![WFC](images/WFC.gif)
-> `#`'s are Walls, `.`'s is the ground, and `~` is water. 
+> `#`'s are Walls, `.`'s are the ground, and `~`'s are water. 
 
 
 # Usage
